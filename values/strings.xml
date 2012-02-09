@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app">Fruit Cake Maker</string>
+    <string name="app_name">FCM RC4 v1.6 - As seen on RootzWiki and XDA!</string>
+    
+    <string name="btCreate">Create Fruit Cake</string>
+    
+    <string name="Pref">Preferences</string>
+    <string name="DevName">Dev Name:</string>
+    <string name="RomName">Rom Name:</string>
+    <string name="SStorage">Storage:</string>
+    <string name="AdvancePref">Advance</string>
+    <string name="AppsPref">Apps</string>
+    <string name="BackUpPref">BackUp</string>
+    <string name="btSavePref">Save</string>
+    
+    <string name="DevInfo">Device Information</string>
+    
+    <string name="FCMbegin">Fruit Cake Creation Started</string>
+    <string name="FCMcreated">Fruit Cake Created</string>
+    
+    <string name="FInstall">First Time Install</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    
+    <string name="NotS">Device not Supported</string>
+    
+    <string name="Console">Console</string>
+    <string name="CStart">Starting the creation process</string>
+    <string name="CScript">Generating and installing script</string>
+    <string name="CBoot">Creating the boot image</string>
+    <string name="CSystem">Creating the system image</string>
+    <string name="CZip">Creating the update zip</string>
+    
+    <string name="EXIT">Exit</string>
+
+    <string name="BOOT">\n\nBoot Partition:\n</string>
+    <string name="SYSTEM">\n\nSystem Partition:\n</string>
+    <string name="ANDROID">\n\nAndroid Version:\n</string>
+    <string name="STORAGE">\n\nStorage Location:\n</string>
+    <string name="DEVICE">Device:\n</string>
+    
+    <string name="reset">Reseting. Please wait.</string>
+    <string name="install">First Installation. Please wait.</string>
+    
+    <string name="devv">Dev Name</string>
+    <string name="romm">Rom Name</string>
+    <string name="storagee">Storage</string>
+    
+    
+    <string name="CREDITS">Credits</string>
+    <string name="PROGRAMMER">Programmer:\n</string>
+    <string name="ICON">Icon:</string>
+    <string name="DISS">Dismiss</string>
+    
+    <string name="CHANGE_NAME">Change the developers name:</string>
+    <string name="CHNAGE_ROM">Change the roms name:</string>
+    
+    <string name="SAM">SamCripp</string>
+    <string name="ACCEPT">Accept</string>
+    
+    <string name="BackMode">Back Up Mode</string>
+    
+    <string name="advance">Advance Options\nMount Loop | Back Up Mode</string>
+    
+</resources>

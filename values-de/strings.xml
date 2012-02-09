@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+            
+        <string name="btCreate">Fruit Cake erstellen</string>
+       
+        <string name="Pref">Einstellungen</string>
+        <string name="DevName">Entwickler:</string>
+        <string name="RomName">ROM-Name:</string>
+        <string name="btSavePref">Speichern</string>
+       
+        <string name="DevInfo">Geräteinformationen</string>
+       
+        <string name="FCMbegin">Fruit Cake Erstellung gestartet</string>
+        <string name="FCMcreated">Fruit Cake erstellt</string>
+       
+        <string name="FInstall">Erstinstallation</string>
+        <string name="accept">Akzeptieren</string>
+        <string name="decline">Abbrechen</string>
+       
+        <string name="NotS">Dieses Gerät wird nicht unterstützt</string>
+       
+        <string name="Console">Konsole</string>
+        <string name="CStart">Erstellungsprozess gestartet</string>
+        <string name="CScript">Scripterstellung und -installation</string>
+        <string name="CBoot">Erstelle Bootimage</string>
+        <string name="CSystem">Erstelle Systemimage</string>
+        <string name="CZip">Erstelle update zip</string>
+       
+        <string name="EXIT">Beenden</string>
+     
+        <string name="BOOT">\n\nBoot Partition:\n</string>
+        <string name="SYSTEM">\n\nSystem Partition:\n</string>
+        <string name="ANDROID">\n\nAndroid Version:\n</string>
+        <string name="STORAGE">\n\nSpeicher:\n</string>
+        <string name="DEVICE">Gerät:\n</string>
+       
+        <string name="reset">Zurücksetzen. Bitte warten.</string>
+        <string name="install">Erstinstallation. Bitte warten.</string>
+       
+        <string name="first">Entwickler | ROM-Name</string>
+       
+        <string name="CREDITS">Credits</string>
+        <string name="PROGRAMMER">Entwickler:\n</string>
+        <string name="ICON">Icon:</string>
+        <string name="DISS">Verwerfen</string>
+       
+        <string name="CHANGE_NAME">Den Entwickler-Namen ändern</string>
+        <string name="CHNAGE_ROM">Den ROM-Namen ändern</string>
+       
+        <string name="SAM">SamCripp</string>
+        <string name="ACCEPT">akzeptieren</string>
+       
+        <string name="BackMode">Backupmodus</string>
+</resources>

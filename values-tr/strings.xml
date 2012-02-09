@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="btCreate">Meyveli Kek Oluştur</string>
+   
+    <string name="Pref">Ayarlar</string>
+    <string name="DevName">Donanım Adı:</string>
+    <string name="RomName">Rom Adı:</string>
+    <string name="btSavePref">Sakla</string>
+   
+    <string name="DevInfo">Donanım Bilgisi</string>
+   
+    <string name="FCMbegin"> Meyveli Kek Oluşturulmaya Başlandı</string>
+    <string name="FCMcreated"> Meyveli Kek Oluşturuldu</string>
+   
+    <string name="FInstall">İlk Yükleme</string>
+    <string name="accept">Kabul et</string>
+    <string name="decline">Reddet</string>
+   
+    <string name="NotS">Donanım Desteklenmiyor</string>
+   
+    <string name="Console">Konsol</string>
+    <string name="CStart">Oluşturma işlemine başlanıyor</string>
+    <string name="CScript">Betik oluşturulup yükleniyor</string>
+    <string name="CBoot">Önyükleme kalıbı oluşturuluyor</string>
+    <string name="CSystem">Sistem kalıbı oluşturuluyor</string>
+    <string name="CZip">Güncelleme sıkıştırma dosyası oluşturuluyor</string>
+   
+    <string name="EXIT">Çıkış</string>
+ 
+    <string name="BOOT">\n\nÖnyükleme Bölümü:\n</string>
+    <string name="SYSTEM">\n\nSistem Bölümü:\n</string>
+    <string name="ANDROID">\n\nAndroid Sürümü:\n</string>
+    <string name="STORAGE">\n\nSaklama Konumu:\n</string>
+    <string name="DEVICE">Donanım:\n</string>
+   
+    <string name="reset">Sıfırlanıyor. Lütfen bekleyin.</string>
+    <string name="install"> İlk Yükleme. Lütfen bekleyin.</string>
+   
+    <string name="first">Donanım Adı | Rom Adı</string>
+   
+    <string name="CREDITS">Krediler</string>
+    <string name="PROGRAMMER">Yazılımcı:\n</string>
+    <string name="ICON">Simge:</string>
+    <string name="DISS">Yoksay</string>
+   
+    <string name="CHANGE_NAME">Geliştirmeci adını değiştir:</string>
+    <string name="CHNAGE_ROM">Rom adını değiştir:</string>
+   
+    <string name="SAM">SamCripp</string>
+    <string name="ACCEPT">Kabul et</string>
+   
+    <string name="BackMode">Yedekleme durumu</string>
+   
+</resources>

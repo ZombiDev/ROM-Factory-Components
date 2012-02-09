@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="btCreate">Crear el \"Fruit Cake\"</string>
+    
+    <string name="Pref">Preferencias</string>
+    <string name="DevName">Nombre del Dev:</string>
+    <string name="RomName">Nombre del Rom:</string>
+    <string name="btSavePref">Grabar</string>
+    
+    <string name="DevInfo">Información del Aparato</string>
+    
+    <string name="FCMbegin">Creacion del \"Fruit Cake\" comenzó</string>
+    <string name="FCMcreated">\"Fruit Cake\" creado</string>
+    
+    <string name="FInstall">Primera Instalación</string>
+    <string name="accept">Acepto</string>
+    
+    <string name="NotS">Aparato no es compatible</string>
+    
+    <string name="Console">Terminal</string>
+    <string name="CStart">Comenzando el proceso de creación</string>
+    <string name="CScript">Generando y instalando el \"script\"</string>
+    <string name="CBoot">Creando la imagen de \"boot\"</string>
+    <string name="CSystem">Creando la imagen de \"system\"</string>
+    <string name="CZip">Creando el update \"zip\"</string>
+    
+    <string name="EXIT">Cerrar</string>
+
+    <string name="BOOT">\n\nParticion de Boot:\n</string>
+    <string name="SYSTEM">\n\nParticion de System:\n</string>
+    <string name="ANDROID">\n\nVersion de Android:\n</string>
+    <string name="STORAGE">\n\nUbicación de Almacenamiento:\n</string>
+    <string name="DEVICE">Aparato:\n</string>
+    
+    <string name="reset">Reseteo. Por favor espere.</string>
+    <string name="install">Primera Instalación. Por favor espere.</string>
+    
+    <string name="first">Nombre del Dev | Nombre del Rom</string>
+    
+    <string name="CREDITS">Creditos</string>
+    <string name="PROGRAMMER">Programador:\n</string>
+    <string name="ICON">Icono:</string>
+    <string name="DISS">Esconder</string>
+    
+    <string name="CHANGE_NAME">Cambie el nombre del Dev:</string>
+    <string name="CHNAGE_ROM">Cambie el nombre del Rom:</string>
+    
+    <string name="SAM">SamCripp</string>
+    <string name="ACCEPT">Acepto</string>
+    
+</resources>
